@@ -1,0 +1,7 @@
+numpy==2.4.4
+scipy==1.17.1
+matplotlib==3.10.9
+qiskit==2.5.2
+qiskit-aer==0.17.2
+qiskit-ibm-runtime==0.50.0
+jupyter==1.1.1
